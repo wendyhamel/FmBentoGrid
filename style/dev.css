@@ -37,4 +37,7 @@
 	--color-white: hsl(0, 0%, 100%);
 	--color-gray-50: rgb(245 245 245);
 	--color-black: hsl(0, 0%, 7%);
+
+	--text-featured: 2.8rem;
+	--text-featured--line-height: 2.7rem;
 }
